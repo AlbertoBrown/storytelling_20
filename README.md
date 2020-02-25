@@ -1,4 +1,4 @@
-# storytelling
+# Digital Storytelling
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2020
 
 
